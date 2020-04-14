@@ -1,0 +1,3 @@
+# Serial Communication and I2C Protocols
+## What is serial communication?
+To transfer data from one system to another there are mainly two ways, **serial communication** and **parallel communtication**. As the name suggests, in serial type, the data is sent in a series form whereas in the parallel type the data is sent in a parallel type. What this means is that in parallel type, we would require a lot of wires connected between the systems which although **very fast** but is often **not feasable**.
